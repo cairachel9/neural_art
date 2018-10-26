@@ -6,7 +6,7 @@ This repository contains various explorations I have been doing on creating/tran
 
 I have been taking art classes since I was six.  Over the years I have learned different art styles: sketches, watercolors, oil paintings, sculptures, mangas ...
 
-Take a look some of artworks I have worked on over the years
+[Take a look at some of artworks] (images/art) I have worked on over the years
 
 # Neural Art
 
