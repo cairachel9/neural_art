@@ -44,7 +44,7 @@ Those are the sketches I drew in the past and on the right are the coloring effe
 
 # Code
 
-For those of you who are interested in the code, [take a look here](ful_version.ipynb)
+For those of you who are interested in the code, [take a look here](full_version.ipynb)
 
 # References
 
