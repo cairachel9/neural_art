@@ -24,15 +24,12 @@ I discovered that I can create or transform many of my paintings in exotic ways,
 
 ## Transfer Art Style -- You can be Monet
 
-I like water ponds and enjoy the serenity of the still life on the pond.  I drew this snow pond picture several years ago in my art class:
-
-<img align="right" src="images/paintings/IMG_20181003_124856.jpg" width="200" />
+I like water ponds and enjoy the serenity of the still life on the pond.  I drew this snow pond picture several years ago in my art class: <img align="right" src="images/paintings/IMG_20181003_124856.jpg" width="200" />
 
 ----
 
-I was quite happy about my drawings until I saw this famous water lilly pond painting from Claude Monet in 1916:
 
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Monet_Water_Lilies_1916.jpg" alt="Drawing" width="200"/>
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Monet_Water_Lilies_1916.jpg" alt="Drawing" width="200"/> I was quite happy about my drawings until I saw this famous water lilly pond painting from Claude Monet in 1916:
 
 ----
 
