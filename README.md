@@ -14,7 +14,7 @@ I have been taking art classes since I was six.  Over the years I have learned m
 
 
 
-<img align="left" src="images/imagenet_vgg16.png" width="300" />
+<img align="left" src="images/neural_network.png" width="200" />
 
 As I grow up, I become heavily involved in computer programming and machine learning projects.  Machine learning through neural networks becomes increasingly popular because of its success on image recognition and processing.
 
@@ -48,7 +48,7 @@ Naturally I want to add color to those sketches but it will take too much time a
 <img src="images/sketch_color/teenager_color.jpg" width="200" />
 
 
-[Take a look to see how I did it.](images/sketch_color/color.html)
+[Take a look to see how I did it.](images/sketch_color/color.md)
 
 # Neural Music
 
