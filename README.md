@@ -34,7 +34,7 @@ How can I draw like Monet?  My art teacher didn't know how to paint impressionis
 
 <img src="images/style_transfer/best_pond_monet.jpg" width="200" />
 
-[Take the tour to see how I did it.](images/style_transfer/style_transfer.html)
+[Take a look to see how I did it.](images/style_transfer/style.md)
 
 ## Sketch to Color
 
