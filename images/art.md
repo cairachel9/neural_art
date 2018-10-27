@@ -1,6 +1,6 @@
 I have been taking art classes since I was six.  Over the years I have learned different art styles: sketches, watercolors, oil paintings, sculptures, mangas ...
 
-Take a look at some of artworks I have worked on over the years.  (Note that each picture is clickable to view the full content)
+Take a look at some of artworks I have worked on over the years.  (Note that each picture is **clickable** to view the full content)
 
 ****
 
