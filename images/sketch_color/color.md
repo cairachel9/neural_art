@@ -33,8 +33,16 @@ Here are some of the sketches I drew in the past and on the right are the colori
 <img align="left" src="girl_sketch.jpg" width="200" />
 <img align="right" src="girl_color_yellow.jpg" width="200" />
 
+----
+
 <img align="left" src="teenager_sketch.jpg" width="200" />
 <img align="right" src="teenager_color.jpg" width="200" />
+
+----
+
+# Code
+
+For those of you who are interested in the code, [take a look here](ful_version.ipynb)
 
 # References
 
