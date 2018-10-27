@@ -13,11 +13,14 @@ I have been taking art classes since I was six.  Over the years I have learned m
 # Neural Art
 
 
-As I grow up, I become heavily involved in computer programming and machine learning projects.  Machine learning through neural networks becomes increasingly popular because of its success on image recognition and processing.
 
 <img align="left" src="images/imagenet_vgg16.png" width="300" />
 
+As I grow up, I become heavily involved in computer programming and machine learning projects.  Machine learning through neural networks becomes increasingly popular because of its success on image recognition and processing.
+
 I discovered that I can create or transform many of my paintings in exotic ways, that totally changed my view on arts.
+
+----
 
 ## Transfer Art Style -- You can be Monet
 
