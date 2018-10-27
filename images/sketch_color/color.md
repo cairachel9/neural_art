@@ -54,3 +54,9 @@ For those of you who are interested in the code, [take a look here](full_version
 # References
 
 The work is inspired by the work from [Emil Wallner](https://github.com/emilwallner/Coloring-greyscale-images-in-Keras)
+
+[Google's Inception Resnet architecture](https://research.googleblog.com/2016/08/improving-inception-and-image.html)
+
+Code is in [Jupyter Notebook](https://www.floydhub.com/emilwallner/projects/color/43/code/Alpha-version/alpha_version.ipynb)
+
+[Intro to deep learning](https://www.youtube.com/watch?v=LxfUGhug-iQ)
