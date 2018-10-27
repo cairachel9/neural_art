@@ -30,13 +30,13 @@ By transferring the learning from the classifier to the coloring network, the ne
 
 Here are validation using my own pictures:
 
-<img align="left" src="girl_sketch.jpg" width="200" />
-<img align="right" src="girl_color_yellow.jpg" width="200" />
+<img align="left" src="girl_sketch.jpg" width="150" />
+<img align="right" src="girl_color_yellow.jpg" width="150" />
 
 ----
 
-<img align="left" src="teenager_sketch.jpg" width="200" />
-<img align="right" src="teenager_color.jpg" width="200" />
+<img align="left" src="teenager_sketch.jpg" width="150" />
+<img align="right" src="teenager_color.jpg" width="150" />
 
 ----
 
