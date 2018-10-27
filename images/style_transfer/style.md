@@ -23,7 +23,7 @@ Take the following snow pond picture drawn by me as the content image on the lef
 
 Now Looking Through when we train and merge the pictures from content and style (each picture is shown after each 100 iterations of machine training):
 
-<img src="iterations.jpg" width="600" />
+<img src="iterations.png" width="600" />
 
 ----
 
@@ -58,6 +58,9 @@ For those of you who are interested in the code, [take a look here](rachel.ipynb
 # References
 
 This work is inspired by [Raymond Yuan's work](https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep-learning-using-tf-keras-and-eager-execution-7d541ac31398)
+
 [Neural Style Transfer](https://arxiv.org/abs/1508.06576)
+
 [Why CNN works](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
+
 [Andrew Ng's 21 lessions on machine learning](https://towardsdatascience.com/deep-learning-specialization-by-andrew-ng-21-lessons-learned-15ffaaef627c)
