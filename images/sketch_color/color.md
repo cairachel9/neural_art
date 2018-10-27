@@ -40,7 +40,9 @@ Here are validation using my own pictures:
 
 ----
 
-On the left are the sketches I drew in the past and on the right are the pictures with added coloring effect.
+On the left are the sketches I drew in the past.
+
+On the right are the pictures with added coloring effect.
 
 # Code
 
