@@ -30,4 +30,14 @@ How can I draw like Monet?  My art teacher didn't know how to paint impressionis
 
 ## Sketch to Color
 
+When I started to learn painting, the first few lessons are spent on sketching: those black-and-white pencil drawings on apples, still objects and later portraits.  I have drawn many of those sketches to practice my stokes, for example the following sketches about a teenage girl:
+
+<img src="images/sketch_color/teenager_sketch.jpg" width="200" />
+
+Later I want to add color to those sketches but it took too much.  Until recently while I was researching on digital arts I realize that neural networks can be used to add color to black-and-white or gray pictures.  Now I got this:
+
+<img src="images/sketch_color/teenager_color.jpg" width="200" />
+
+[Take a look to see how I did it.](images/sketch_color/color.html)
+
 # Neural Music
