@@ -20,11 +20,13 @@ I like water ponds and enjoy the serenity of the still life on the pond.  I draw
 
 I was quite happy about my drawings until I saw this water lilly pond painting from Claude Monet:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Monet_Water_Lilies_1916.jpg" alt="Drawing" style="width: 200px;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Monet_Water_Lilies_1916.jpg" alt="Drawing" width="200"/>
 
-How can I draw like Monet?  My art teacher didn't know how to paint impressionistically but I explore the internet and found people were publishing papers on transfering artist style onto a subject painting.  I happened to learn computer neural networks during this time and after some experimentation, I was able to apply Monet's style onto my water pond picture.  Take a look to see how I did it:
+How can I draw like Monet?  My art teacher didn't know how to paint impressionistically but I explore the internet and found people were publishing papers on transfering artist style onto a subject painting.  I happened to learn computer neural networks during this time and after some experimentation, I was able to apply Monet's style onto my water pond picture.
 
 <img src="images/style_transfer/best_pond_monet.jpg" width="200" />
+
+[Take a look to see how I did it.](images/style_transfer/style_transfer.html)
 
 ## Sketch to Color
 
