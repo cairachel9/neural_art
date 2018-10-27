@@ -22,7 +22,7 @@ The version of the colorization neural network has four components.  We split th
 
 In parallel to the encoder, we feed the input image through one of the popular neural network architecture: Inception Resnet V2, this is a network trained on 1.2M images.  We extract the classification layer and merge it with the output from the encoder.
 
-<img src="inceptionv2.png" width="500" />
+<img src="inceptionv2.png" width="600" />
 
 By transferring the learning from the classifier to the coloring network, the network can get a sense of what’s in the picture. 
 
@@ -40,7 +40,7 @@ Here are validation using my own pictures:
 
 ----
 
-Those are the sketches I drew in the past and on the right are the coloring effect.
+On the left are the sketches I drew in the past and on the right are the pictures with added coloring effect.
 
 # Code
 
