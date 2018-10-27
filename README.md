@@ -48,6 +48,6 @@ Not only can neural network be used to do paintings, it can also make music.
 
 When a painter creates a work of art, she first blends and explores colors in her palette before applying to canvas.  In music, we can also create a new music by combining two musical scores.  
 
-[Click here](images/music/magenta.html) see how the two melodies are morphed together.
+[Click here](http://htmlpreview.github.com/?https://github.com/cairachel9/neural_art/blob/master/images/music/magenta.html) see how the two melodies are morphed together.
 
-<img src="images/music/diagram.png" width="300" />
+<img src="images/music/diagram.png" width="400" />
