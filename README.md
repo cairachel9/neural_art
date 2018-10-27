@@ -12,17 +12,26 @@ I have been taking art classes since I was six.  Over the years I have learned m
 
 # Neural Art
 
-As I grow up, I become heavily involved in computer programming and machine learning projects.  I discovered that I can create or transform many of my paintings in an exotic way, that totally changed my view on arts.
+
+As I grow up, I become heavily involved in computer programming and machine learning projects.  Machine learning through neural networks becomes increasingly popular because of its success on image recognition and processing.
+
+<img align="left" src="images/imagenet_vgg16.png" width="300" />
+
+I discovered that I can create or transform many of my paintings in exotic ways, that totally changed my view on arts.
 
 ## Transfer Art Style -- You can be Monet
 
 I like water ponds and enjoy the serenity of the still life on the pond.  I drew this snow pond picture several years ago in my art class:
 
-<img src="images/paintings/IMG_20181003_124856.jpg" width="200" />
+<img align="right" src="images/paintings/IMG_20181003_124856.jpg" width="200" />
 
-I was quite happy about my drawings until I saw this water lilly pond painting from Claude Monet:
+----
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Monet_Water_Lilies_1916.jpg" alt="Drawing" width="200"/>
+I was quite happy about my drawings until I saw this famous water lilly pond painting from Claude Monet in 1916:
+
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Monet_Water_Lilies_1916.jpg" alt="Drawing" width="200"/>
+
+----
 
 How can I draw like Monet?  My art teacher didn't know how to paint impressionistically but I explore the internet and found people were publishing papers on transfering artist style onto a subject painting.  I happened to learn computer neural networks during this time and after some experimentation, I was able to apply Monet's style onto my water pond picture.
 
@@ -32,19 +41,21 @@ How can I draw like Monet?  My art teacher didn't know how to paint impressionis
 
 ## Sketch to Color
 
-When I started to learn painting, the first few lessons are spent on sketching: those black-and-white pencil drawings on apples, still objects and later portraits.  I have drawn many of those sketches to practice my stokes, for example the following sketches about a teenage girl:
+When I started to learn painting, the first few lessons are spent on sketching: those black-and-white pencil drawings on apples, still objects and later portraits.  I have drawn many of those sketches to practice my strokes, for example the following sketches about a teenage girl:
 
-<img src="images/sketch_color/teenager_sketch.jpg" width="200" />
+<img align="right" src="images/sketch_color/teenager_sketch.jpg" width="200" />
+
+----
 
 Naturally I want to add color to those sketches but it will take too much time and effort.  Until recently while I was researching on digital arts I realize that neural networks can be used to add color to black-and-white or gray pictures.  Now I got this done by the computer:
 
-<img src="images/sketch_color/teenager_color.jpg" width="200" />
+<img align="left" src="images/sketch_color/teenager_color.jpg" width="200" />
 
 [Take a look to see how I did it.](images/sketch_color/color.html)
 
 # Neural Music
 
-Not only can neural network be used to do paintings, it can also make music.
+Not only can neural network be used to draw paintings, it can also make music.
 
 When a painter creates a work of art, she first blends and explores colors in her palette before applying to canvas.  In music, we can also create a new music by combining two musical scores.  
 
