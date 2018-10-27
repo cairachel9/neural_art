@@ -28,7 +28,6 @@ By transferring the learning from the classifier to the coloring network, the ne
 
 # Validation result
 
-Here are validation using my own pictures:
 
 <img align="left" src="girl_sketch.jpg" width="150" />
 <img align="right" src="girl_color_yellow.jpg" width="150" />
@@ -39,6 +38,8 @@ Here are validation using my own pictures:
 <img align="right" src="teenager_color.jpg" width="150" />
 
 ----
+
+Here are validation using my own pictures.
 
 On the left are the sketches I drew in the past.
 
