@@ -23,7 +23,7 @@ Take the following snow pond picture drawn by me as the content image on the lef
 
 Now Looking Through when we train and merge the pictures from content and style (each picture is shown after each 100 iterations of machine training):
 
-<img src="iterations.png" width="600" />
+<img src="iterations.png" width="800" />
 
 ----
 
@@ -46,11 +46,13 @@ In summary, we’ll take the base input image, a content image that we want to m
 # More Result
 
 My pictures as the content and Vincent Van Goph's sunflower picture as style:
-<img align="left" src="../paintings/IMG_20181003_124825.jpg" width="200" />
-<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Van_Gogh_Sunflowers_Neue_Pinakothek_8672.jpg" alt="Drawing" width="200"/>
+<img align="left" src="../paintings/IMG_20181003_124825.jpg" width="150" />
+<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Van_Gogh_Sunflowers_Neue_Pinakothek_8672.jpg" alt="Drawing" width="150"/>
+
+-----
 
 And the result: 
-<img src="best_flower_vangogh.jpg" width="300" />
+<img src="best_flower_vangogh.jpg" width="200" />
 
 # Code
 For those of you who are interested in the code, [take a look here](rachel.ipynb)
