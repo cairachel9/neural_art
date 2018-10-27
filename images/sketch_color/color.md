@@ -44,6 +44,8 @@ On the left are the sketches I drew in the past.
 
 On the right are the pictures with added coloring effect.
 
+----
+
 # Code
 
 For those of you who are interested in the code, [take a look here](full_version.ipynb)
