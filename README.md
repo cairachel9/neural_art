@@ -14,7 +14,7 @@ I have been taking art classes since I was six.  Over the years I have learned m
 
 
 
-<img align="left" src="images/neural_network.png" width="200" />
+<img align="left" src="images/neural_network.png" width="150" />
 
 As I grow up, I become heavily involved in computer programming and machine learning projects.  Machine learning through neural networks becomes increasingly popular because of its success on image recognition and processing.
 
