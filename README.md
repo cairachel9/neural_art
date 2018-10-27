@@ -2,9 +2,11 @@
 
 This repository contains various explorations I have been doing on creating/transforming my artworks using computer neural networks.
 
+Don't forget to click those **Take a look** link which will show you the detailed process and code behind the neural arts.
+
 # My Artworks
 
-I have been taking art classes since I was six.  Over the years I have learned different art styles: sketches, watercolors, oil paintings, sculptures, mangas ...
+I have been taking art classes since I was six.  Over the years I have learned many different art styles: sketches, watercolors, oil paintings, sculptures, mangas ...
 
 [Take a look at some of artworks](images/art.md) I have worked on over the years
 
@@ -14,7 +16,7 @@ As I grow up, I become heavily involved in computer programming and machine lear
 
 ## Transfer Art Style -- You can be Monet
 
-I like water ponds and enjoy the serenity of the still life on the pond.  I draw this pond picture several years in my art class:
+I like water ponds and enjoy the serenity of the still life on the pond.  I drew this snow pond picture several years ago in my art class:
 
 <img src="images/paintings/IMG_20181003_124856.jpg" width="200" />
 
@@ -34,10 +36,18 @@ When I started to learn painting, the first few lessons are spent on sketching: 
 
 <img src="images/sketch_color/teenager_sketch.jpg" width="200" />
 
-Later I want to add color to those sketches but it took too much.  Until recently while I was researching on digital arts I realize that neural networks can be used to add color to black-and-white or gray pictures.  Now I got this:
+Naturally I want to add color to those sketches but it will take too much time and effort.  Until recently while I was researching on digital arts I realize that neural networks can be used to add color to black-and-white or gray pictures.  Now I got this done by the computer:
 
 <img src="images/sketch_color/teenager_color.jpg" width="200" />
 
 [Take a look to see how I did it.](images/sketch_color/color.html)
 
 # Neural Music
+
+Not only can neural network be used to do paintings, it can also make music.
+
+When a painter creates a work of art, she first blends and explores colors in her palette before applying to canvas.  In music, we can also create a new music by combining two musical scores.  
+
+[Click here](images/music/magenta.html) see how the two melodies are morphed together.
+
+<img src="images/music/diagram.png" width="300" />
