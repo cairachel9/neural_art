@@ -59,7 +59,7 @@ For those of you who are interested in the code, [take a look here](rachel.ipynb
 
 # References
 
-This work is inspired by [Raymond Yuan's work](https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep-learning-using-tf-keras-and-eager-execution-7d541ac31398)
+This project is heavily influenced by [Raymond Yuan's work](https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep-learning-using-tf-keras-and-eager-execution-7d541ac31398)
 
 [Neural Style Transfer](https://arxiv.org/abs/1508.06576)
 

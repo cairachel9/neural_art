@@ -53,7 +53,7 @@ For those of you who are interested in the code, [take a look here](full_version
 
 # References
 
-The work is inspired by the work from [Emil Wallner](https://github.com/emilwallner/Coloring-greyscale-images-in-Keras)
+This project is heavily influenced by the work from [Emil Wallner](https://github.com/emilwallner/Coloring-greyscale-images-in-Keras)
 
 [Google's Inception Resnet architecture](https://research.googleblog.com/2016/08/improving-inception-and-image.html)
 
